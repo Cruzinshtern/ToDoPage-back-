@@ -4,7 +4,7 @@ import {todos} from "./routes"
 import bodyParser from "body-parser"
 import cors from "cors"
 
-const PORT = 3001;
+const PORT = 3002;
 const HOST = "localhost";
 const app = express();
 
